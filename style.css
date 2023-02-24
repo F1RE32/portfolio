@@ -1,0 +1,97 @@
+* {
+    color: white;
+    margin: 0%;
+}
+
+.container {
+    background-color: rgb(40, 40, 71);
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.containerflex {
+    display: flex;
+}
+
+.containerflex2 {
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 2px rgb(53, 52, 52) solid;
+    margin-top: 20px;
+}
+
+.containerflex3 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.navbaritems {
+    margin-top: 2%;
+    margin-right: 6%;
+    margin-left: 6%;
+    font-size: 18px;
+}
+
+.sub {
+    margin: 10%;
+}
+
+.yellowText {
+    color: yellow;
+    margin-bottom: 0% !important;
+}
+
+/* .headingSubContainer{
+    padding: 0% 8% 0% 2%;
+} */
+.heading1 {
+    text-decoration: underline;
+}
+
+.para1 {
+    color: grey;
+    margin-bottom: 2px !important;
+}
+
+.text1 {
+    font-size: 20px;
+}
+
+.para1,
+.heading1 {
+    font-size: 40px;
+}
+
+.icons {
+    margin: 2%;
+}
+
+.arrow{
+    text-align: center;
+    vertical-align: middle;
+    padding: 10%;
+}
+
+.nomargin{
+    margin-bottom: 0%;
+}
+
+.nomargin2{
+    margin: 0%;
+    color: grey;
+}
+.containermain{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(68, 66, 66);
+    border-radius: 30px;
+    margin: 2% 10%;
+}
+.containermainicons{
+    margin: 20px;
+}
