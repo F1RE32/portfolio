@@ -51,6 +51,9 @@
 } */
 .heading1 {
     text-decoration: underline;
+    text-decoration-color: yellow;
+    text-underline-offset: 18px;
+    margin-bottom: 10%;
 }
 
 .para1 {
